@@ -42,11 +42,12 @@
 - To Do Changes:
 	- Do your code changes
 	- Enter the command `git status` to see if your edits have been registered
-	- Use `git add "filename` to add changes to the list of files that will be turned in
+	- Use `git add "filename"` to add changes to the list of files that will be turned in
       - Use `git add .` to add all files
 	- Use `git commit -m "Reason for Change"` 
       - Adds all staged files to local branch
 	- Finally `git push` to turn in changes
       - Push committed files to remote branch
+      		- This may give you an error, just copy and paste the command suggested
 	
 ![](https://i.imgur.com/baZ5y7Z.gif)
